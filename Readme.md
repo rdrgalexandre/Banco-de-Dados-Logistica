@@ -1,0 +1,1 @@
+Hello, this project is about a construction of a database called as "Logistica", using the Microsoft SQL Server. The script has all the steps that I used to database creation, and as well notes about the new learnings.  
